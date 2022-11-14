@@ -15,6 +15,10 @@ export default defineConfig({
       manifest: {
         name: 'Daily Day',
         short_name: 'D D',
+        theme_color: '#1661ab',
+        background_color: '#1661ab',
+        display: 'fullscreen',
+        orientation: 'portrait',
         icons: [
           {
             src: 'icon144.png',

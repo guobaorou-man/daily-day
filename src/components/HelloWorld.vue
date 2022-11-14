@@ -37,7 +37,6 @@ const count = ref(0)
   }
 }
 .aa {
-  background-color: darkgrey;
   @extend .read-the-docs;
 }
 </style>
